@@ -1,0 +1,3 @@
+tài khoản kết nối với SQL :
+tài khoản sa
+mật khẩu 123456
